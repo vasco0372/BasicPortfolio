@@ -80,6 +80,7 @@ h2 {
 }
 #myInfo{
 	padding-bottom: 60px;
+	padding-left:10px;
 }
 #connect{
 	width:180px;
@@ -118,4 +119,13 @@ footer{
 	height:40px;
 	width:40px;
 	margin:5px;
+}
+a{
+	color:blue
+}
+a:hover{
+	background-color:yellow
+}
+a:visited{
+	color:brown;
 }
