@@ -121,10 +121,10 @@ footer{
 	margin:5px;
 }
 a{
-	color:blue
+	color:blue;
 }
 a:hover{
-	background-color:yellow
+	background-color:yellow;
 }
 a:visited{
 	color:brown;
