@@ -83,6 +83,7 @@ h2 {
 	margin-right:80px;
 	margin-top:30px;
 	text-align: center;
+	padding-top:20px;
 }
 footer{
 	clear:both;
@@ -132,4 +133,13 @@ legend{
 	width:100px;
 	color:white;
 	height: 30px;
+}
+/*styles added after reset*/
+h2{
+	font-size:1.5em;
+	font-weight: bold;
+}
+h3{
+	font-size:1.2em;
+	font-weight: bold;
 }
